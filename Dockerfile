@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-web-nginx-mysql:centos-trunk
+FROM zabbix/zabbix-web-nginx-mysql:centos-latest
 
 USER 1997
 
